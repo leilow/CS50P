@@ -14,4 +14,4 @@ Troubleshooting
 
 Concepts I'm Still Learning
 - How to make programs work when creating functions. I often run into NameErrors, and *feel* like the program is more legible/shorter without functions.
-- "Pythonic" way of doing things. Takes me a while to get to a solution that's concise and pythonic.
+- The "Pythonic" way of doing things. Takes me a while to get to a solution that's concise and pythonic.
