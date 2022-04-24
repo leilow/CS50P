@@ -4,7 +4,8 @@ CS50 Python Practice Sets
 **LINKS**
 
 Practice Set 0: https://cs50.harvard.edu/python/2022/psets/0/ <br>
-Practice Set 1: https://cs50.harvard.edu/python/2022/psets/1/
+Practice Set 1: https://cs50.harvard.edu/python/2022/psets/1/ <br>
+Practice Set 2: https://cs50.harvard.edu/python/2022/psets/2/ <br>
 
 **NOTES**
 
